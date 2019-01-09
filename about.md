@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+2015.04 ~ 2017.08 대진대학교 인공지능 실험실  
+2015.03 ~ 대진대학교 공과대학 컴퓨터공학과
